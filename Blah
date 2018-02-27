@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>FunTime</h1>
- <p> Welcome to Fun Time! This year two girls in Girls Who Code bring to you our CS impact project. We would you to have fun and do what you are passionate about. We encourage you to take the impact quiz. This quiz will consist of answering a series of questions that may impact as a student and we believe that you should make the choices that affect you. We believe that for the things like school times, nutrition facts and many more. The things that are on the quiz may not be the choice you want so you are free to type in your own answer. Please do not type anything inappropriate. <p>
- <p> Our website offers many different things to do. You can create your own eBook or post jokes and read other ones too. You can play appropriate games for your age. We also have a variety of quizes you could take and see what others think. This is the place where you can be who you really want to be.<p>
+<title>FunTime!</title>
+<h1 style="size:300%;"> FunTime!</h1>
+<p style="font-family:arial;">Welcome to Fun Time! This year two girls in Girls Who Code bring to you our CS impact project. We would you to have fun and do what you are passionate about. We encourage you to take the impact quiz. This quiz will consist of answering a series of questions that may impact as a student and we belive that you should make the choices that affect you. We belive that for the things like school times, nutrition facts and many more. The things that are on the quiz may not be the choice you wan so you are free to type in your own awnser. Please do not type anything inapropriate. </p>
+ <p style="font-family:arial;"> Our webpsite offers many different things to do. You can create your own eBook or post jokes and read other ones too. You can play appropriate games for your age. We also have a variety of quizes you could take and see what others think. This is the place where you can be who you really want to be.<p>
 </body>
 </html>
 <!DOCTYPE html>
@@ -11,4 +12,4 @@
 <body>
 
 <img src="https://www.gametime.com/images/sized/James_Brown_Park_001-9927-1500302242-608e93763cf4c85f2642cdb7e60df2f6.jpg" alt="https://www.gametime.com/images/sized/James_Brown_Park_001-9927-1500302242-608e93763cf4c85f2642cdb7e60df2f6.jpg" width="500" height="300">
-
+<a href="file:///C:/Users/admin/Desktop/Fun%20Time%20Jokes.html" style="font-family:arial;">Click here for jokes!</a>
