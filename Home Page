@@ -65,7 +65,6 @@ body {
   <a class="active" href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20Home%20Page.html">Home</a>
   <a href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20About.html">About</a>
   <a href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20Contact.html">Contact</a>
-  <input type="text" placeholder="Search..">
 </div>
 <title>FunTime!</title>
 <h1 style="size:300%;"> FunTime!</h1>
