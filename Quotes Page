@@ -66,45 +66,11 @@ body {
   <a class="active" href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20Home%20Page.html">Home</a>
   <a href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20About.html">About</a>
   <a href="file:///C:/Users/admin/Desktop/Girls%20Who%20Code%20Website/Fun%20Time%20Contact.html">Contact</a>
-  <input type="text" placeholder="Search..">
-</div>
-<h1>Fun Time Qoutes!</h1>
-<p>Here you can read inspirational qoutes to make you feel better! Just click in the box for the type of qoute you want to see!</p>
-
-<button onclick="typeWriter()">Click me</button>
-
-<p id="demo"></p>
-
-<script>
-var i = 0;
-var txt = 'lorem ipsum';
-var speed = 50;
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-</script>
-
-</body>
-</html>
-
-<button onclick="typeWriter()">Lkjwhs</button>
-
-<p id="demo"></p>
-
-<script>
-var i = 0;
-var txt = 'blalala hmmmm';
-var speed = 50;
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
+  </div>
+<h1>Fun Time Quotes!</h1>
+<p>Here you can read inspirational qoutes to make you feel better! Just click the link for qutes you wnat to see!</p>
+<li><a href="https://www.brainyquote.com/topics/motivational">Click for motivational quotes!</a></li>
+<li><a href="https://www.brainyquote.com/topics/friendship">Click here for quotes about friendship!</a></li>
+<li><a href="https://www.brainyquote.com/topics/smile">Click here for quotes that will make you smile more!</a></li>
+<li><a href="https://www.brainyquote.com/topics/family">Click here for quotes about family!</a></li>
+<li><a href="https://www.brainyquote.com/topics/nature">Click here for quotes about nature!</a></li>
